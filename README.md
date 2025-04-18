@@ -1,5 +1,3 @@
-# Ship-Fight console-game
-
-To run game, download executable file from /build/release/ and run it on your machine.
+# Ship-Fight console-game (windows-only)
 
 ![ship-fight picture](./ship_fight.jpg)
